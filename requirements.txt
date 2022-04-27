@@ -1,0 +1,3 @@
+cloudscraper==1.2.60
+colorama==0.4.4
+requests==2.27.1
